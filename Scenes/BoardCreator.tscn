@@ -4,3 +4,4 @@
 
 [node name="BoardCreator" type="Node3D"]
 script = ExtResource("1_hk4ym")
+fileName = null
