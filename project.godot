@@ -11,5 +11,10 @@ config_version=5
 [application]
 
 config/name="GodotTactics"
-config/features=PackedStringArray("4.2", "Forward Plus")
+run/main_scene="uid://h6cnyc33ugcp"
+config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="res://icon.svg"
+
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/BoardCreatorInspector/plugin.cfg")
